@@ -5,7 +5,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("Welcome Back")
+st.title("Welcome to AI Habit Analyzer")
 st.write("Sign in to your Habit Analyzer account")
 
 email = st.text_input(
